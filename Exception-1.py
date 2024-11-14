@@ -5,7 +5,7 @@ import json
 FILENAME = "data-data.json"
 
 file: TextIO = None
-
+#COMMENTS
 students: list[dict[str,str]] = []
 
 try:
